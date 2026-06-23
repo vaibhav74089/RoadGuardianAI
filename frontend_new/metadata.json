@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuardian AI",
+  "description": "AI-powered road infrastructure monitoring platform that detects potholes and road cracks using YOLOv8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
