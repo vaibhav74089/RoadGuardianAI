@@ -1,5 +1,14 @@
-.env
+
 venv311/
 __pycache__/
+
+
+
+
+datasets/
 runs/
 uploads/
+
+frontend/node_modules/
+
+.env

@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-model = YOLO("runs/detect/train-8/weights/best.pt")
+model = YOLO("models/best.pt")
 
 CLASS_NAMES = {
     0: "Longitudinal Crack",
